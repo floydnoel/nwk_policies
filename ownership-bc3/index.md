@@ -4,10 +4,10 @@ description: 'Everything you need to know about Nerds With Keyboards account own
 ---
 
 [home]: /
-[help-owners]: https://NerdsWithKeyboards.com/help/3/guides/account/ownership
-[help-adminland]: https://NerdsKeyboards.com/help/3/guides/account/adminland
-[support]: https://NerdsWithKeyboards.com/support
-[support-email]: mailto:support@NerdsWithKeyboards.com
+[help-owners]: https://nerdswithkeyboards.com/help/3/guides/account/ownership
+[help-adminland]: https://nerdswithkeyboards.com/help/3/guides/account/adminland
+[support]: https://nerdswithkeyboards.com/support
+[support-email]: mailto:support@nerdswithkeyboards.com
 
 # Who owns a Nerds With Keyboards 4 account?
 
@@ -17,8 +17,8 @@ Nerds With Keyboards 4 accounts are owned by individuals, not by organizations. 
 
 Account owners can:
 
-- **Access and export all data in an account**: account owners can add themselves to any Team or Project and view everything in the account trash ([how-to](https://3.NerdsWithKeyboards-help.com/article/100-owner-actions)). As an account owner, you can also create an HTML export of your Nerds With Keyboards account data at any time ([how-to](https://3.NerdsWithKeyboards-help.com/article/150-export-your-Nerds With Keyboards-data)). These exports function include everything already accessible to you in your Nerds With Keyboards account. The exports do not include website interaction logs for any account users and we do not provide such meta-data to account owners. For more details, please read our [Privacy policy](../privacy/index.md), which outlines what meta-data we collect and for what purposes.
-- **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and canceling an account ([how-to](https://3.Nerds With Keyboards-help.com/category/94-account-billing)).
+- **Access and export all data in an account**: account owners can add themselves to any Team or Project and view everything in the account trash ([how-to](https://3.nerdswithkeyboards-help.com/article/100-owner-actions)). As an account owner, you can also create an HTML export of your Nerds With Keyboards account data at any time ([how-to](https://3.nerdswithkeyboards-help.com/article/150-export-your-Nerds With Keyboards-data)). These exports function include everything already accessible to you in your Nerds With Keyboards account. The exports do not include website interaction logs for any account users and we do not provide such meta-data to account owners. For more details, please read our [Privacy policy](../privacy/index.md), which outlines what meta-data we collect and for what purposes.
+- **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and canceling an account ([how-to](https://3.nerdswithkeyboards-help.com/category/94-account-billing)).
 - **Designate other account owners**: Nerds With Keyboards 4 accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
 
 ## Designating other people as owners

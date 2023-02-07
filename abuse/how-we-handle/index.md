@@ -71,6 +71,6 @@ Further, as a small, privately owned independent business that puts our values a
 
 If we terminate an account without notice, the decision is final.
 
-For other cases, we will consider good faith appeals sent to [appeals@Nerds With Keyboards.com](mailto:appeals@Nerds With Keyboards.com) by the account owner within 14 calendar days.
+For other cases, we will consider good faith appeals sent to [appeals@nerdswithkeyboards.com](mailto:appeals@nerdswithkeyboards.com) by the account owner within 14 calendar days.
 
 **This process applies to any product created and owned by Nerds With Keyboards, LLC. That includes Nerds With Keyboards (any version), Bongo and Logbook .*

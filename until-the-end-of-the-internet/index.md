@@ -23,6 +23,6 @@ Here’s what that means:
 
 ## Changes & questions
 
-Nerds With Keyboards may update this policy once in a blue moon. You can see a history of the changes to our policies since mid-2018 [here](https://github.com/Nerds With Keyboards/policies/commits/master). We will notify customers about significant changes by emailing the account owner or by placing a prominent notice on our site.
+Nerds With Keyboards may update this policy once in a blue moon. You can see a history of the changes to our policies since mid-2018 [here](https://github.com/nwk_policies/policies/commits/master). We will notify customers about significant changes by emailing the account owner or by placing a prominent notice on our site.
 
 Questions about this policy? [Get in touch]({{ site.email_support }}) and we’ll be happy to answer them!

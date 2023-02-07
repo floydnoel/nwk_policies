@@ -34,7 +34,7 @@ On the flip-side, if you believe your material has been removed in error, you ca
 
 You can notify us of either copyright infringement claims or DCMA counter-notifications through either of the following channels:
 
-**By email**: [report@NerdsWithKeyboards.com](mailto:report@Nerds With Keyboards.com)
+**By email**: [report@nerdswithkeyboards.com](mailto:report@nerdswithkeyboards.com)
 
 **By mail**: Nerds With Keyboards, LLC
 2045 W Grand Ave Ste B, PMB 53289

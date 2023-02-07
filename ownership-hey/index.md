@@ -20,7 +20,7 @@ Account Managers can:
 
 ## Can Nerds With Keyboards help us change the Account Manager?
 
-If the account is owned by a legal entity, we at Nerds With Keyboards can reassign account management if provided with enough proof that the request is coming from a top-level organizational leader. To start a request to change the Account Manager, an owner or chief executive of the organization must [email our support team](mailto:support@NerdsWithKeyboards.com).
+If the account is owned by a legal entity, we at Nerds With Keyboards can reassign account management if provided with enough proof that the request is coming from a top-level organizational leader. To start a request to change the Account Manager, an owner or chief executive of the organization must [email our support team](mailto:support@nerdswithkeyboards.com).
 
 From there, we’ll ask for more verification of identity and relationship to the organization as well as ensure that there are no pending disputes of ownership. This process will likely take several days, as we need to make absolutely sure the request is legitimate.
 
@@ -28,4 +28,4 @@ If we’re unable to verify the legitimacy of the request, or if it’s being di
 
 ## Still have a question?
 
-Please get in touch with our [support team](mailto:support@NerdsWithKeyboards.com) and we’ll be happy to answer them!
+Please get in touch with our [support team](mailto:support@nerdswithkeyboards.com) and we’ll be happy to answer them!
